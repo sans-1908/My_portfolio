@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sans-1908/My_portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/sans-1908/My_portfolio/static/js/main.de258dcf.js",
+    "static/media/Sanskriti_photo.jpeg": "/sans-1908/My_portfolio/static/media/Sanskriti_photo.a6f471787a4da3a7a9c6.jpeg",
+    "index.html": "/sans-1908/My_portfolio/index.html",
+    "main.bf538fe7.css.map": "/sans-1908/My_portfolio/static/css/main.bf538fe7.css.map",
+    "main.de258dcf.js.map": "/sans-1908/My_portfolio/static/js/main.de258dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.de258dcf.js"
+  ]
+}
