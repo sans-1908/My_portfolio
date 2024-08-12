@@ -150,7 +150,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "../autodesk_logo.png",
+    img: "./public/autodesk_logo.png",
     role: "Software Engineering Intern",
     company: "Autodesk India Pvt. Ltd.",
     date: "Jan 2024 - June 2024",
@@ -168,7 +168,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "../ricoz.png",
+    img: "./ricoz.png",
     role: "Flutter Developer Intern",
     company: "Ricoz-Connecting Audience pvt Ltd",
     date: "July 2023 - Sept 2023",
@@ -185,7 +185,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "../galgotia.png",
+    img: "",
     school: "Galgotias college of engineering & technology",
     date: "Dec 2020 - June 2024",
     grade: "8.57 CGPA",
