@@ -203,7 +203,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "../gg.jpg",
+    img: "",
     school: "MPVM: Ganga gurukulam, Allahabad",
     date: "Apr 2017",
     grade: "10 CGPA",
